@@ -25,8 +25,6 @@ To set up a functional EDR solution using LimaCharlie on a Windows VM and observ
    <img width="816" height="692" alt="image" src="https://github.com/user-attachments/assets/ea40ff9a-3552-4156-96b6-39e5314c4f14" />
 
 # YouTube Demo
-https://www.youtube.com/watch?v=xssboj8CgPk
-Watch the full deployment and test demo on YouTube:
 
 [Watch on Youtube](https://www.youtube.com/watch?v=xssboj8CgPk))
 
